@@ -1,6 +1,6 @@
-# SignUp/In-RESTful-API
+# SignUp/LogIn-API
 
-A simple SignUp/In application developed in Nodejs using Express.
+A simple SignUp/LogIn application developed in Nodejs using Express.
 
 # Getting started
 
@@ -11,7 +11,7 @@ Unzip the downloaded file.
 Enter this command it will install all the dependencies at once:
 
 ```
-npm install
+npm init
 ```
 
 ### Start the application
