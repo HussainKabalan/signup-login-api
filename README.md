@@ -38,3 +38,9 @@ go to 'http://localhost:3000/login', then right your email and password.
 ```
 Go to 'http://localhost:3000/users', If your role is user, an error will pop up.
 ```
+
+
+
+```
+You can use postman software to run the project
+```
